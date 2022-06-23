@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "app.product.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'app.product.api.key'"
+  },
+  {
+    "name": "app.product.api.owner",
+    "type": "java.lang.String",
+    "description": "A description for 'app.product.api.owner'"
+  },
+  {
+    "name": "app.product.category.api.owner",
+    "type": "java.lang.String",
+    "description": "A description for 'app.product.category.api.owner'"
+  },
+  {
+    "name": "app.product.category.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'app.product.category.api.key'"
+  },
+  {
+    "name": "app.product.category.api.cron",
+    "type": "java.lang.String",
+    "description": "A description for 'app.product.category.api.cron'"
+  },
+  {
+    "name": "app.product.api.cron",
+    "type": "java.lang.String",
+    "description": "A description for 'app.product.api.cron'"
+  },
+  {
+    "name": "app.page.size",
+    "type": "java.lang.String",
+    "description": "A description for 'app.page.size'"
+  },
+  {
+    "name": "app.page.number",
+    "type": "java.lang.String",
+    "description": "A description for 'app.page.number'"
+  },
+  {
+    "name": "app.number.of.record",
+    "type": "java.lang.String",
+    "description": "A description for 'app.number.of.record'"
+  }
+]}
